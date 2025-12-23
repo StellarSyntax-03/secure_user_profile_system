@@ -1,0 +1,5 @@
+{
+  "name": "SecureID - Identity Management System",
+  "description": "A secure, encrypted identity management dashboard simulating a MERN architecture with client-side encryption handling.",
+  "requestFramePermissions": []
+}
